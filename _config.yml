@@ -1,10 +1,10 @@
 # Site settings
-name: 室内室外.
+name: 室内室外
 email: 593829901@qq.com
 author: Daun
-url: http://www.lintao.online
-resume_site: http://www.lintao.online/cv.html
-github: https://github.com/lintaoonline/
+url: 
+resume_site: 
+github: 
 baseurl: ""
 description: Hello, word!
 meta_description: Daun;个人博客
