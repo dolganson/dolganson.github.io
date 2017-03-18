@@ -1,15 +1,15 @@
 # Site settings
-name: The Quick Brown Fox Jump Over Lazy Dog.
-email: 10000@qq.com
+name: 室内室外.
+email: 593829901@qq.com
 author: Daun
 url: http://www.lintao.online
 resume_site: http://www.lintao.online/cv.html
 github: https://github.com/lintaoonline/
 baseurl: ""
-description: Actually, I'm not a Kobe fan!
+description: Hello, word!
 meta_description: Daun;个人博客
-motto: Never underestimate the heart of a champion.
-banner: when i was young. they call me "小科比" ;
+motto: Hello, word.
+banner:  ;
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
